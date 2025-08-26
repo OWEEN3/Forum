@@ -1,0 +1,78 @@
+.comment-card {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  padding: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid #dddddd;
+  width: 90vw;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+  transition: box-shadow 0.2s;
+}
+
+.comment-card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+}
+
+.comment-card-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+  font-family: 'Montserrat', Arial, sans-serif;
+}
+
+.comment-card-author {
+  font-weight: 600;
+  color: #222;
+}
+
+.comment-card-date {
+  font-size: 0.75rem;
+  color: #888;
+}
+
+.comment-card-input {
+  width: 100%;
+  min-height: 80px;
+  padding: 0.75rem;
+  border-radius: 6px;
+  border: 1px solid #cccccc;
+  font-size: 1rem;
+  resize: vertical;
+  box-sizing: border-box;
+}
+
+.comment-card-body {
+  font-size: 1rem;
+  color: #444;
+  margin: 0;
+  font-family: 'Montserrat', Arial, sans-serif;
+  white-space: pre-wrap;
+}
+
+.comment-card-btn {
+  background: #222;
+  border-radius: 6px;
+  border: none;
+  color: #ffffff;
+  font-size: 0.75rem;
+  padding: 2px 8px;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.comment-card-btn:hover {
+  color: #ffd700;
+}
+
+.comment-card-user-actions,
+.comment-card-delete-actions,
+.comment-card-edit-actions {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+  justify-content: flex-start;
+}

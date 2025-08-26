@@ -1,0 +1,83 @@
+.post-page-container {
+  margin: 1.5rem;
+  background: #fff;
+  border-radius: 14px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.25);
+  overflow: hidden;
+  font-family: 'Montserrat', Arial, sans-serif;
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+
+.post-page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  background: #f7f7fa;
+  padding: 24px 32px 16px 32px;
+  border-bottom: 1px solid #dddddd;
+}
+
+.post-page-title-block {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.post-page-title {
+  margin: 0;
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #222;
+}
+
+.post-page-username {
+  margin-top: 4px;
+  font-size: 1rem;
+  color: #888;
+  font-weight: 500;
+}
+
+.post-page-date {
+  font-size: 0.95rem;
+  color: #aaa;
+  font-weight: 500;
+  margin-left: 16px;
+  white-space: nowrap;
+}
+
+.post-page-body {
+  padding: 32px;
+  font-size: 1.15rem;
+  color: #333;
+  min-height: 120px;
+}
+
+.post-page-updated {
+  text-align: right;
+  padding: 0 32px 24px 32px;
+  font-size: 0.95rem;
+  color: #bbb;
+}
+
+.post-page-actions {
+  display: flex;
+  gap: 0.5rem;
+  padding: 0 32px 24px 32px;
+}
+
+.post-page-input {
+  width: 100%;
+  padding: 8px;
+  margin: 16px 32px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-family: inherit;
+}
+
+.post-page-confirm {
+  font-size: 1rem;
+  margin-right: 1rem;
+  color: #444;
+}

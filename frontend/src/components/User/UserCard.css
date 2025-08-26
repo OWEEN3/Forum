@@ -1,0 +1,45 @@
+.user-card {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+  padding: 1.5rem;
+  margin-top: 1.5rem;
+  transition: box-shadow 0.2s;
+  border: 1px solid #5d50504d;
+  width: 90vw;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+}
+
+.user-card:hover {
+  box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+}
+
+.user-card-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.user-card-username {
+  font-weight: 700;
+  font-size: 1.2rem;
+  font-family: 'Montserrat', Arial, sans-serif;
+  color: #222;
+}
+
+.user-card-join-date {
+  font-size: 0.9rem;
+  color: #555;
+  font-family: 'Montserrat', Arial, sans-serif;
+}
+
+.user-card-body {
+  font-family: 'Montserrat', Arial, sans-serif;
+  color: #444;
+}
+
+.user-card-body p {
+  margin: 0.3rem 0;
+}

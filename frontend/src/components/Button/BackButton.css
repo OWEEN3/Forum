@@ -1,0 +1,15 @@
+.back-button {
+  background: transparent;
+  border: none;
+  color: #666;
+  font-size: 0.9rem;
+  font-family: 'Montserrat', Arial, sans-serif;
+  cursor: pointer;
+  margin-left: 3rem;
+  padding-top: 1.5rem;
+  align-self: flex-start;
+}
+
+.back-button:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,75 @@
+.edit-profile-container {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  padding: 2rem;
+  margin-top: 2rem;
+  border: 1px solid #dddddd;
+  width: 90vw;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+  font-family: 'Montserrat', Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.edit-profile-container p {
+  font-size: 1rem;
+  font-weight: 500;
+  margin: 0 0 0.3rem 0;
+  color: #333;
+  align-self: flex-start;
+}
+
+.edit-profile-container input,
+.edit-profile-container textarea {
+  width: 100%;
+  padding: 12px 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1rem;
+  outline: none;
+  transition: border-color 0.2s;
+  resize: vertical;
+  box-sizing: border-box;
+}
+
+.edit-profile-container input:focus,
+.edit-profile-container textarea:focus {
+  border-color: #888;
+}
+
+.label-with-counter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.3rem;
+}
+
+.label-with-counter p {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #333;
+}
+
+.label-with-counter .char-counter {
+  font-size: 0.75rem;
+  color: #666;
+}
+
+.edit-profile-error {
+  color: #a70000;
+  font-size: 0.9rem;
+  align-self: flex-start;
+}
+
+.edit-profile-success {
+  color: #007700;
+  font-size: 0.9rem;
+  align-self: flex-start;
+}
+    

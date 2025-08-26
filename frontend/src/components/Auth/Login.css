@@ -1,0 +1,28 @@
+.login-container {
+  width: 100%;
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  font-family: 'Montserrat', Arial, sans-serif;
+}
+
+.login-container p {
+  font-size: 1rem;
+  font-weight: 500;
+  margin: 0 0 0.3rem 0;
+  color: #333;
+}
+
+.login-container input {
+  padding: 12px 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1rem;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.login-container input:focus {
+  border-color: #888;
+}
