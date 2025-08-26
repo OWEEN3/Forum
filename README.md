@@ -54,21 +54,22 @@ When changing the user name or e-mail, a uniqueness check is performed: if the d
 
 ## 🎨 Screenshots
 * **Main page**: Displays a list of all created discussion topics.
-<img height="400" align="center" alt="image" src="https://github.com/user-attachments/assets/f1841ae7-5db1-4773-bcb8-626f94065016" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/21ae5272-1872-463e-9a4e-dff5dbb118b2" />
 
 * **Search**: Search topics by words in the title.
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/2ed614bf-04ae-4190-8032-9cba0b3b5f8e" />
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/579239d8-dbd1-4138-a675-fef725c1adb3" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/ca445ae1-e45f-4591-9e20-af18e2b45f32" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/3e85e116-dcaf-4d1f-9db3-44fe1a17b897" />
 
 * **Topic page**: Detailed information about the topic, its author and comments on it
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/fc25f452-c1fd-4ee6-b572-43df228942c0" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/e1c3d89b-2c2d-4a90-a1ec-5599441e9ce1" />
 
 * **Login/Register**: Login and registration of users
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/702f7e80-79b2-430d-aa34-da0f596e0204" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/b0f2e5c6-df69-4ce5-844e-865c2f1f2c52" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/814df777-6225-4f07-83bf-5492ceef7855" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/999563a6-4ec8-428c-8a66-45155a19e387" />
 
 * **User Page**: Information about the user and a list of his topics
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/4ce32615-cca5-42bc-b5fe-3788ec659d51" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/0c122d24-e1ba-4030-9411-d73bfaa44fcb" />
+
 
 
 
